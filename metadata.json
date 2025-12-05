@@ -1,0 +1,5 @@
+{
+  "name": "NdFlow Sankey Visualizer",
+  "description": "A scientific visualization tool for Neodymium (Nd) material flows using Sankey diagrams. Supports Excel upload, interactive node dragging, and style customization.",
+  "requestFramePermissions": []
+}
